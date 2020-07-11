@@ -1,4 +1,4 @@
-![Me](me-hero.jpg)
+![Me](https://github.com/TJSoler/tjsoler/raw/master/me-hero.jpg)
 
 ### Hi there 👋
 
