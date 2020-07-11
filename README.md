@@ -1,3 +1,5 @@
+![Me](me-hero.jpg)
+
 ### Hi there 👋
 
 <!--
@@ -19,4 +21,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning all things cloud + diving deep on *go*
 - 💬 Ask me anything about comics
 - 📫 How to reach me: tomas@tjsoler.me
-
